@@ -1,0 +1,4 @@
+Bundle-Name: Expiry-Banner
+Bundle-SymbolicName: com.ihorizons.module.expirybanner
+Bundle-Version: 1.0.0
+Export-Package: com.ihorizons.module.expirybanner.constants
